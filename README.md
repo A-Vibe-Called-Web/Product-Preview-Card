@@ -129,7 +129,7 @@ svg{
     --fw-reg: 500;
     --fw-bold: 700
 }
-
+```
 ### Continued development
 
 #### Responsive Layout
