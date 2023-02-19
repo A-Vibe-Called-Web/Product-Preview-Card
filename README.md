@@ -140,4 +140,4 @@ svg{
   
 
 ## Author
-- Frontend Mentor - [@timothy-joseph-collado](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@timothy-joseph-collado](https://www.frontendmentor.io/profile/timothy-joseph-collado)
