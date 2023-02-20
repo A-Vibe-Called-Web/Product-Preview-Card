@@ -69,7 +69,7 @@ section.product-prev{
     border-radius: 10px;
     background-color: var(--White);
     overflow: hidden;
-    max-width: 550px;
+    max-width: 600px;
 }
 
 .inner-container.image{
