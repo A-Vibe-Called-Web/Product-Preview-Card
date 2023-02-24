@@ -33,10 +33,16 @@ Evidence for the completed project meeting the challenge requirements:
 view the image of my solution following the directory below:
 
 Desktop View - version 1
-![](./MyImages/Desktop-img.png | width=200)
+<a>
+  <image src="/Code/Images/Desktop-imgv2.png" width="250" height="300">
+</a>
+
+
 
 Mobile View - version 1
-![](./MyImages/Mobile-img.png | width=200)
+<a>
+  <image src="/design/Mobile-imgv2.png" width="250" height="300">
+</a>
 
 Check the code here:
 <!-- Html -->
