@@ -48,9 +48,9 @@ Mobile View - version 1<br>
 
 Check the code here:
 <!-- Html -->
-![Html code for this project](./index.html)
+[Html code for this project](./index.html)
 <!-- CSS -->
-![CSS code for this project](./styles.css)
+[CSS code for this project](./styles.css)
 
 ## My process
 -I started the project by first reviewing the design and then reading file that came with this challenge.
