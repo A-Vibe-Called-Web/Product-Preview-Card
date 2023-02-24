@@ -86,7 +86,7 @@ section.product-prev{
     gap: 1rem;
     flex-wrap: wrap;
     padding: 1.5rem;
-    width: 90%;
+    width: 85%;
     gap: var(--content-spacing);
 }
 
