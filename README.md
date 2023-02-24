@@ -32,16 +32,16 @@ Evidence for the completed project meeting the challenge requirements:
 
 view the image of my solution following the directory below:
 
-Desktop View - version 1
+![Desktop View - version 1]<br>
 <a>
-  <image src="/Code/Images/Desktop-imgv2.png" width="250" height="300">
+  <image src="/Code/Images/Desktop-imgv2.png" width="300" height="500">
 </a>
 
 
 
-Mobile View - version 1
+Mobile View - version 1<br>
 <a>
-  <image src="/design/Mobile-imgv2.png" width="250" height="300">
+  <image src="/design/Mobile-imgv2.png" width="300" height="500">
 </a>
 
 Check the code here:
