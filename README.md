@@ -32,17 +32,19 @@ Evidence for the completed project meeting the challenge requirements:
 
 view the image of my solution following the directory below:
 
-![Desktop View - version 1]<br>
+Desktop View - version 1<br>
 <a>
   <image src="/Code/Images/Desktop-imgv2.png" width="600" height="400">
 </a>
 
-
+***
 
 Mobile View - version 1<br>
 <a>
-  <image src="/design/Images/Mobile-imgv2.png" width="600" height="400">
+  <image src="/Code/Images/Mobile-imgv2.png" width="600" height="400">
 </a>
+
+*** 
 
 Check the code here:
 <!-- Html -->
