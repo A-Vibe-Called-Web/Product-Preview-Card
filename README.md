@@ -52,6 +52,10 @@ Check the code here:
 <!-- CSS -->
 [CSS code for this project](./styles.css)
 
+### Links
+
+- Live Site URL: [Add live site URL here](https://product-preview-comp-main.netlify.app)
+
 ## My process
 -I started the project by first reviewing the design and then reading file that came with this challenge.
   - By looking at the design I can breakdown all the part and visually plan which elements to group together.
