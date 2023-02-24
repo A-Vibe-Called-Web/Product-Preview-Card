@@ -54,7 +54,7 @@ Check the code here:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://product-preview-comp-main.netlify.app)
+- Live Site URL: [Product Preview Component](https://product-preview-comp-main.netlify.app)
 
 ## My process
 -I started the project by first reviewing the design and then reading file that came with this challenge.
